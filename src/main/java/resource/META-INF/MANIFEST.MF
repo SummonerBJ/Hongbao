@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Main-Class: main.java.com.kargo.Hongbao
+Class-Path: libs/fastjson-1.2.61.jar libs/jodd-core-5.0.6.jar libs/jodd-
+ http-5.0.6.jar
+
